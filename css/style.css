@@ -11047,8 +11047,11 @@ textarea.form-control-lg {
   padding: 1rem;
   margin-top: 0;
 }
+
+
 .services__content p {
   font-size: 0.8rem;
+  text-align: center;
 }
 @media (min-width: 992px) {
   .services__content p {
