@@ -11035,6 +11035,11 @@ textarea.form-control-lg {
   filter: grayscale(120);
 }
 
+
+.squidimg{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
 .services {
   position: relative;
   padding: 1rem 0;
@@ -11547,6 +11552,7 @@ height: 30px;
 
 #traitsct {
   width: 25%;
+  margin: auto;
 }
 
 .aboutus {
