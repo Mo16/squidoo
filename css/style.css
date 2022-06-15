@@ -10952,6 +10952,7 @@ textarea.form-control-lg {
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
+  height: 100vh;
 }
 .intro-section .bgIntroContainer {
   z-index: 2;
